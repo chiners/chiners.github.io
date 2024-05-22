@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王怡心
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Yi Xin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi Xin
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,9 +20,9 @@ superuser: true
 role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+organizations: China Jinliang University
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,17 +40,30 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor degree in measurement and control technology and instrument
+    institution: China Jiliang Uiversity
+    date_start: 2022-09-01
+    date_end: 2026-06-07
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Application Foundation
+      - Advanced Mathematics A1
+      - Advanced Mathematics A2
+      - College Physics A1
+      - Matlab Programming and Application
+      - Signal Analysis and Processing
+      - Error Theory and Data Processing
+      - Principle of Automatic Control
+      - Sensor Technology
+      - Programming Language C++
+      - Applied Mathematics in Engineering
+      - Network Programming
+      - Python Programming
+      - Virtual Instruments
+      - Computational Methods
+      - Programmable Logical Controller
     
 
 # Skills
@@ -89,9 +102,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 190
   - name: Chinese
-    percent: 75
+    percent: 100
   
 
 # Awards.
@@ -99,31 +112,28 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: First-class scholarship for outstanding students
+    url: 
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: China Jiliang University
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+     
+  - title: 
+    url: Zhejiang Provincial Government first-class scholarship
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: China Jiliang University
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      
+  - title: First-class scholarship for outstanding students
+    url: 
+    certificate_url: 
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: China Jiliang University
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+At present, I am an undergraduate student in China Jiliang University. I have kept the first score of comprehensive test in my major continuously, and I have a wide range of interests and professional knowledge reserves
