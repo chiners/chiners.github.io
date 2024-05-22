@@ -20,7 +20,7 @@ superuser: true
 role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations: China Jinliang University
+organizations: ChinaJinliangUniversity
   - name: 
     url: 
 
