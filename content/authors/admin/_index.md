@@ -19,16 +19,15 @@ superuser: true
 # Role/position/tagline
 role: Director of Cloud Infrastructure
 
-# Organizations/Affiliations to display in Biography blox
-organizations: ChinaJinliangUniversity
-  - name: 
-    url: 
+# Organizations/Affiliations to display in Biography block
+organizations:
+  - name: China Jiliang University
+    url: ""
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: mailto:your-email@example.com
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -41,7 +40,7 @@ profiles:
 
 education:
   - area: Bachelor degree in measurement and control technology and instrument
-    institution: China Jiliang Uiversity
+    institution: China Jiliang University
     date_start: 2022-09-01
     date_end: 2026-06-07
     summary: |
@@ -64,10 +63,8 @@ education:
       - Virtual Instruments
       - Computational Methods
       - Programmable Logical Controller
-    
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -102,38 +99,30 @@ skills:
 
 languages:
   - name: English
-    percent: 190
+    percent: 90
   - name: Chinese
     percent: 100
-  
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: First-class scholarship for outstanding students
     url: 
     date: '2023-11-25'
     awarder: China Jiliang University
     icon: 
-    summary: |
-     
-  - title: 
-    url: Zhejiang Provincial Government first-class scholarship
+  - title: Zhejiang Provincial Government first-class scholarship
+    url: 
     date: '2023-07-01'
     awarder: China Jiliang University
     icon: 
-    summary: |
-      
   - title: First-class scholarship for outstanding students
     url: 
     certificate_url: 
     date: '2023-01-21'
     awarder: China Jiliang University
     icon: 
-    summary: |
-      
+
 ---
 
-At present, I am an undergraduate student in China Jiliang University. I have kept the first score of comprehensive test in my major continuously, and I have a wide range of interests and professional knowledge reserves
+At present, I am an undergraduate student in China Jiliang University. I have kept the highest comprehensive test scores in my major continuously, and I have a wide range of interests and a substantial knowledge base.
+
